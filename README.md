@@ -1,2 +1,3 @@
 # hello-world
 starting to learn github
+This is my first attempt at git and I'm exploring git........
